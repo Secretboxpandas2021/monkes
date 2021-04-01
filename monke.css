@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    color:blueviolet;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 400px;
+    height: 250px;
+    display: block;
+    margin: auto;
+}
+
+#specialmonke {
+    font-size: 30px;
+}
+
+.clemonke {
+    font-size: 40px;
+}
