@@ -7,8 +7,38 @@ body {
 }
 
 img {
-    width: 400px;
-    height: 250px;
+    width: 225px !important;
+    height: 300px !important;
+}
+
+.img-left {
+    position: relative;
+    left: 20%;
+    //padding-left: 50px;
+}
+
+.img-right {
+    position: relative;
+    left: 50%
+}
+
+#monkes-yu {
+    width: 300px !important;
+    height: 225px !important;
+}
+
+#good {
+    width: 180px !important;
+    height: 105px !important;
+}
+#monkesi {
+    width: 275px !important;
+    height: 160px !important;
+}
+
+#monkmonk {
+    width: 400px !important;
+    height: 500px !important;
 }
 
 .list-group-item{
